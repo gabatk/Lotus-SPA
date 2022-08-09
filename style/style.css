@@ -44,5 +44,24 @@ body{
     text-align: center;
     margin-top: 170px;
     margin-bottom: 50px;
-    font-size: large
+    font-style: italic;
+    font-family: serif;
+    color: rgb(175, 125, 77);
+    font-size: x-large
+
+}
+
+.facebook{
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 25%;
+}
+
+.instagram{
+    padding-right: 10px;
+    width: 25%;
+}
+
+.twitter{
+    width: 28%;
 }
