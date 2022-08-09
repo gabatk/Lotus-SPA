@@ -12,6 +12,14 @@ body{
      width: 10%;
      padding: 7px;
 }
+.brand-name{
+    color: white;
+    font-style: italic;
+    font-family: serif;
+    color: rgb(175, 125, 77);
+    font-size: x-large;
+    
+}
 
 .row{
     height: 6vh;
@@ -64,4 +72,9 @@ body{
 
 .twitter{
     width: 28%;
+}
+
+.footer{
+    background-color: rgb(32, 32, 30);
+    color: white;
 }
