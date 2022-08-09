@@ -4,16 +4,13 @@ body{
 }
 
 .header{
-    display:flex;
-    
-
+    display: flex;
 }
 
 .main-logo{
     margin-left: 40px;
      width: 10%;
      padding: 7px;
-
 }
 
 .row{
@@ -32,6 +29,20 @@ body{
 
 .container{
     padding:200px;
-   
 }
 
+.card-group{
+    margin: 30px;
+}
+
+.offer-summary{
+    margin-top: 170px;
+    text-align: center;
+}
+
+.summary{
+    text-align: center;
+    margin-top: 170px;
+    margin-bottom: 50px;
+    font-size: large
+}
