@@ -145,7 +145,20 @@ body{
     height: 530px;
 }
 
-.massage-description{
-    width: 50%;
-    
+.massage-type{
+    width: 45%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.massage-type h1{
+    margin-top: 80px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: rgb(175, 125, 77);
+}
+
+.massage-type h5{
+    color: rgb(175, 125, 77);
 }
