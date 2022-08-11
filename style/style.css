@@ -72,7 +72,7 @@ body{
 }
 
 .footer{
-    background-color: rgb(32, 32, 30);
+    background-color: rgb(31, 31, 27);
     color: white;
     padding-top: 10px;
 }
@@ -143,4 +143,9 @@ body{
 .essential-oils{
     width: 100%;
     height: 530px;
+}
+
+.massage-description{
+    width: 50%;
+    
 }
