@@ -199,3 +199,7 @@ body{
 .special-offer h5{
     color: rgb(175, 125, 77);
 }
+
+.special-offer h5:hover{
+    background-color: rgb(235, 224, 214);
+}
