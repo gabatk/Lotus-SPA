@@ -203,3 +203,25 @@ body{
 .special-offer h5:hover{
     background-color: rgb(235, 224, 214);
 }
+
+.price-list h6{
+    color: rgb(175, 125, 77);
+}
+
+.price-list{
+    width: 40%;
+    margin-top: 40px;
+    margin-bottom: 70px;
+    
+    /* text-align: center; */
+    border: 2px solid rgb(175, 125, 77);
+    border-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.price-header{
+    text-align: center;
+    color: rgb(175, 125, 77);
+    margin-top: 70px;
+}
