@@ -4,10 +4,6 @@ body {
     overflow-x: hidden;
 }
 
-.header {
-    display: flex;
-}
-
 .main-logo {
     margin-left: 40px;
     width: 7vh;
